@@ -13,7 +13,7 @@ More recently, financial models have been proposed that allow for infinitely man
 - and Infinite Jump Diffusion processes: like the VG model. 
 
 **Our analysis is implemented in Matlab and it generates the following results:**
-![](Images/mjdpaths.png.png)
+![](Images/mjdpaths.png)
 ![](Images/mjddensities.png)
 ![](Images/vgpaths.png)
-![](Images/vgddensities.png)
+![](Images/vgdensities.png)
